@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https;//AmarKumarShaw.github.io/bappa_da/static/css/main.ae61729d.chunk.css",
+    "main.js": "/https;//AmarKumarShaw.github.io/bappa_da/static/js/main.8b10dab8.chunk.js",
+    "main.js.map": "/https;//AmarKumarShaw.github.io/bappa_da/static/js/main.8b10dab8.chunk.js.map",
+    "runtime-main.js": "/https;//AmarKumarShaw.github.io/bappa_da/static/js/runtime-main.403a838f.js",
+    "runtime-main.js.map": "/https;//AmarKumarShaw.github.io/bappa_da/static/js/runtime-main.403a838f.js.map",
+    "static/js/2.35ddd23f.chunk.js": "/https;//AmarKumarShaw.github.io/bappa_da/static/js/2.35ddd23f.chunk.js",
+    "static/js/2.35ddd23f.chunk.js.map": "/https;//AmarKumarShaw.github.io/bappa_da/static/js/2.35ddd23f.chunk.js.map",
+    "index.html": "/https;//AmarKumarShaw.github.io/bappa_da/index.html",
+    "static/css/main.ae61729d.chunk.css.map": "/https;//AmarKumarShaw.github.io/bappa_da/static/css/main.ae61729d.chunk.css.map",
+    "static/js/2.35ddd23f.chunk.js.LICENSE.txt": "/https;//AmarKumarShaw.github.io/bappa_da/static/js/2.35ddd23f.chunk.js.LICENSE.txt",
+    "static/media/download.5f8c4400.jpg": "/https;//AmarKumarShaw.github.io/bappa_da/static/media/download.5f8c4400.jpg",
+    "static/media/hero-anim.3cc4ece8.svg": "/https;//AmarKumarShaw.github.io/bappa_da/static/media/hero-anim.3cc4ece8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.403a838f.js",
+    "static/js/2.35ddd23f.chunk.js",
+    "static/css/main.ae61729d.chunk.css",
+    "static/js/main.8b10dab8.chunk.js"
+  ]
+}
